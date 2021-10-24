@@ -1,0 +1,10 @@
+D:\Users\redev\source\repos\sha1hasher\bin\Release\sha1hasher.exe.config
+D:\Users\redev\source\repos\sha1hasher\bin\Release\sha1hasher.exe
+D:\Users\redev\source\repos\sha1hasher\bin\Release\sha1hasher.pdb
+D:\Users\redev\source\repos\sha1hasher\obj\Release\sha1hasher.csprojAssemblyReference.cache
+D:\Users\redev\source\repos\sha1hasher\obj\Release\sha1hasher.Form1.resources
+D:\Users\redev\source\repos\sha1hasher\obj\Release\sha1hasher.Properties.Resources.resources
+D:\Users\redev\source\repos\sha1hasher\obj\Release\sha1hasher.csproj.GenerateResource.cache
+D:\Users\redev\source\repos\sha1hasher\obj\Release\sha1hasher.csproj.CoreCompileInputs.cache
+D:\Users\redev\source\repos\sha1hasher\obj\Release\sha1hasher.exe
+D:\Users\redev\source\repos\sha1hasher\obj\Release\sha1hasher.pdb
